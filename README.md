@@ -1,3 +1,3 @@
 # Applied-Data-Science-Capstone
 
-https://maggiechen-8055.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/
+This repository contains files used to complete the Applied Data Science Capstone of the IBM Data Science Professional Certificate.
